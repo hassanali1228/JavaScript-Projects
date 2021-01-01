@@ -1,0 +1,78 @@
+Welcome to Amjad Everything Sales so that YOU NEVER GET CHEATED ON AGAIN!
+
+Menu: 
+Add Items to List
+Remove Items from List
+Print Receipt
+Get Total Price
+Exit Program
+
+Type in the command you would like to perform! (Same Capital Case, Spelling, and Spacing)Add Items to List
+
+What was your first item? A
+How much did your first item cost? $1
+Did you purchase another item? Please reply with 'yes' or 'no'. yes
+What was this item's name? B
+How much did this item cost? $2
+Did you purchase another item? Please reply with 'yes' or 'no'. yes
+What was this item's name? C
+How much did this item cost? $3
+Did you purchase another item? Please reply with 'yes' or 'no'. yes
+What was this item's name? D
+How much did this item cost? $4
+Did you purchase another item? Please reply with 'yes' or 'no'. no
+
+Well, that was a short one, you are welcome back anytime
+
+Menu: 
+Add Items to List
+Remove Items from List
+Print Receipt
+Get Total Price
+Exit Program
+
+Type in the command you would like to perform! (Same Capital Case, Spelling, and Spacing)Remove Items from List
+
+Which item would you like to remove? C
+Would you like to remove another item?no
+
+Menu: 
+Add Items to List
+Remove Items from List
+Print Receipt
+Get Total Price
+Exit Program
+
+Type in the command you would like to perform! (Same Capital Case, Spelling, and Spacing)Print Receipt
+Would you still like to waste precious materials?yes
+
+A: 
+$1
+B: 
+$2
+D: 
+$4
+How much discount did you recieve on your final purchase? If none, enter zero. %50
+Tax: $0.35000000000000053
+Total$3.8500000000000005
+
+Menu: 
+Add Items to List
+Remove Items from List
+Print Receipt
+Get Total Price
+Exit Program
+
+Type in the command you would like to perform! (Same Capital Case, Spelling, and Spacing)Get Total Price
+
+How much discount did you recieve on your final purchase? If none, enter zero. %0
+Total$7.700000000000001
+
+Menu: 
+Add Items to List
+Remove Items from List
+Print Receipt
+Get Total Price
+Exit Program
+
+Type in the command you would like to perform! (Same Capital Case, Spelling, and Spacing)Exit Program
