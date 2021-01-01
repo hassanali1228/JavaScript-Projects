@@ -1,2 +1,2 @@
 # JavaScript-Projects
-JavaScript projects written to understand the language.
+JavaScript projects written to learn the language.
